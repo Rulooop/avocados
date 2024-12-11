@@ -1,8 +1,8 @@
-## 📊 Proyecto: Análisis y Procesamiento de Datos
-# 📝 Descripción
+# 📊 Proyecto: Análisis y Procesamiento de Datos
+## 📝 Descripción
 Este proyecto utiliza datos para realizar un análisis exhaustivo mediante técnicas de visualización, regresión y agrupación temporal. Los resultados ayudan a comprender la relación entre precios, volúmenes y características de productos.
 
-🚀 Gráficos y Estructuras Explicadas
+## 🚀 Gráficos y Estructuras Explicadas
 1. Evolución Trimestral de Ventas por Tipo de Bolsa
 Descripción: Se agrupan las ventas trimestrales por tipos de bolsa: pequeñas, grandes y extragrandes.
 Gráfico: Línea temporal de ventas.
@@ -27,14 +27,14 @@ Explicación: Identifica relaciones entre variables numéricas como precios, vol
 Descripción: Se entrena un modelo de regresión lineal usando características relevantes para predecir precios.
 Estructura: Uso de LinearRegression de scikit-learn.
 Explicación: El modelo ajusta datos históricos para predecir precios, evaluando el rendimiento con métricas como R² y RMSE.
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 Bibliotecas de Python
 Numpy: Cálculos numéricos.
 Pandas: Manipulación de datos.
 Matplotlib & Seaborn: Visualización avanzada.
 Scikit-learn: Modelado predictivo.
 Statsmodels: Análisis estadístico.
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 bash
 Copiar código
 📦 Proyecto  
@@ -43,12 +43,11 @@ Copiar código
  ├── proyecto.ipynb       # Archivo principal con análisis completo  
  ├── requirements.txt     # Lista de dependencias  
  └── README.md            # Documentación  
-📈 Resultados Clave
+## 📈 Resultados Clave
 Gráficos explicativos y predicciones precisas.
 Análisis detallado de tendencias y relaciones entre variables.
 Modelos estadísticos con métricas relevantes (R² y RMSE).
-🤝 Contribuciones
+## 🤝 Contribuciones
 Se aceptan contribuciones para mejorar y extender el proyecto. Abre un issue o envía un pull request.
-
-📜 Licencia
+## 📜 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
