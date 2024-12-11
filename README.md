@@ -1,5 +1,5 @@
 ## 📊 Proyecto: Análisis y Procesamiento de Datos
-📝 Descripción
+# 📝 Descripción
 Este proyecto utiliza datos para realizar un análisis exhaustivo mediante técnicas de visualización, regresión y agrupación temporal. Los resultados ayudan a comprender la relación entre precios, volúmenes y características de productos.
 
 🚀 Gráficos y Estructuras Explicadas
